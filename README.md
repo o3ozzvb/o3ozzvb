@@ -1,5 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o3ozzvb)](https://github.com/o3ozzvb/github-readme-stats)
-\
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o3ozzvb)](https://github.com/o3ozzvb/github-readme-stats)
+</p>
+
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
