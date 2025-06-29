@@ -17,14 +17,19 @@
 <!-- <img src="https://img.shields.io/badge/-ou1112@naver.com-1ec800?style=flat&labelColor=1ec800&logo=gmail&logoColor=white"/> -->
 <br>
 <h2> 💻 Tech Stack 💻 </h2>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 <!--   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp  -->
 <!--   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp  -->
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-squar&logo=mysql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp 
 <!-- <h3>🖥  Tools 🖥 </h3> -->
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka&logoColor=white"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/jira-%230047B3.svg?style=flat-square&logo=jira&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/confluence-%230047B3.svg?style=flat-square&logo=confluence&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white"/>&nbsp
