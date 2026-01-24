@@ -9,7 +9,7 @@
 <!-- <div align="center"> -->
 <div>
 <h2> 👩🏻‍💻 About Me 👩🏻‍💻 </h2>
-<a href="https://developer-ek.tistory.com/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Storyblok&logoColor=white" alt="Developer Eunkyoung's Blog"/></a>
+<a href="https://lia-devlog.tistory.com/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Storyblok&logoColor=white" alt="Developer Eunkyoung's Blog"/></a>
 <a href="https://www.linkedin.com/in/oeunkyoung/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
     <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg"/>
